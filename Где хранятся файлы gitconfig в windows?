@@ -1,0 +1,6 @@
+Где хранятся файлы gitconfig в windows?
+
+Пути к файлам gitconfig в windows:
+%programdata%\Git\config - C:\ProgramData\Git\gitconfig - git config --system
+%userprofile%\.gitconfig - C:\Users\username\.gitconfig - git config --global
+каталог_проекта\.git\config -                             git config
